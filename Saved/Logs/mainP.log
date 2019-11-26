@@ -7810,3 +7810,5 @@ Please update your composite fonts to use localized sub-font families: https://d
 [2019.11.24-14.22.07:890][529]LogSavePackage: Moving 'C:/Users/Teshima/Documents/Unreal Projects/mainP/Saved/BP_Enemy4EBF25A641AEF292F0C0D1AF0135FD6A.tmp' to 'C:/Users/Teshima/Documents/Unreal Projects/mainP/Content/TwinStickBP/enemy/BP_Enemy.uasset'
 [2019.11.24-14.22.07:897][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/enemy/BP_Enemyspawner" FILE="C:/Users/Teshima/Documents/Unreal Projects/mainP/Content/TwinStickBP/enemy/BP_Enemyspawner.uasset" SILENT=true
 [2019.11.24-14.22.07:925][529]LogSavePackage: Moving 'C:/Users/Teshima/Documents/Unreal Projects/mainP/Saved/BP_Enemyspawner1FFD58CD42B06AE09EA5F6AB8BB8F33F.tmp' to 'C:/Users/Teshima/Documents/Unreal Projects/mainP/Content/TwinStickBP/enemy/BP_Enemyspawner.uasset'
+[2019.11.24-14.24.24:739][362]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{1922d64b-54b4-4eb0-9024-1639782b3c56} was removed. Shutting down audio device.
+[2019.11.24-14.24.24:739][362]LogInit: XAudio2 using 'VE248-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
